@@ -33,3 +33,6 @@ xenon --help
 ```bash
 xenon -Url http://127.0.0.1:1234/login.php -User /usr/share/seclists/Usernames/best15.txt -Pass /usr/share/seclists/Usernames/top-usernames-shortlist.txt -Fail "LOGIN GAGAL: Password atau Username salah"
 ```
+
+
+REMEMBER THIS IS FOR EDUCATIONAL ONLY, NEVER DO THIS ON THE REAL WEBSITE WITHOUT PERMISSION!
