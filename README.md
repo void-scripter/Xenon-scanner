@@ -14,7 +14,6 @@ wget https://github.com/void-scripter/Xenon-scanner/raw/main/xenon_1.0_all.deb
 sudo apt install ./xenon_1.0_all.deb
 sudo chmod +x /usr/bin/xenon
 xenon --help
-```bash
 
 
 ## how to use it:
