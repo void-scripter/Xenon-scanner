@@ -13,11 +13,11 @@ apt install wget -y
 ```
 
 ```bash
-wget https://github.com/void-scripter/Xenon-scanner/raw/main/xenon_1.5_all.deb
+wget https://github.com/void-scripter/Xenon-scanner/raw/main/xenon_2.5_all.deb
 ```
 
 ```bash
-sudo apt install ./xenon_1.5_all.deb
+sudo apt install ./xenon_2.5_all.deb
 ```
 
 ```bash
