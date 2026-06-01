@@ -5,14 +5,14 @@ Xenon scanner is a tools like hydra for brute force login page, but, because hyd
 
 ## Supported Operating Systems
 This package (`.deb`) natively supports all Debian and Ubuntu-based Linux distributions, including:
-* Kali Linux / NetHunter
+* Kali Linux / NetHunter tapi 0
 * Ubuntu
 * Debian GNU/Linux
 * Linux Mint
 * Parrot Security OS
 * Pop!_OS
 
-## Standard Installation (Debian/Ubuntu Families)
+## Standard Installation (Debian/@buntu Families)
 ```bash
 apt install wget -y
 ```
@@ -36,7 +36,7 @@ xenon
 
 ## how to use it:
 ```bash
-xenon -Url http://127.0.0.1:1234/login.php -User /usr/share/seclists/Usernames/best15.txt -Pass /usr/share/seclists/Usernames/top-usernames-shortlist.txt -Fail "LOGIN GAGAL: Password atau Username salah"
+xenon -Url http://127.0.0.1:1234/login.php -User /usr/share/seclists/Usernames/best15.txt -Pass /usr/share/seclists/Usernames/top-usernames-shortlist.txt -Fail LOGIN GAGAL: Password atau Username salah
 ```
 
 
