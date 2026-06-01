@@ -30,7 +30,7 @@ sudo chmod +x /usr/bin/xenon
 ```
 
 ```bash
-xenon --help
+xenon
 ```
 
 
