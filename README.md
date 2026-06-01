@@ -1,7 +1,7 @@
 ## Xenon-scanner
 Xenon scanner is a tools like hydra for brute force login page, but, because hydra to hard to use it (like me to), i make this tools for brute force login page
 
-![Xenon Terminal Screenshot](Xenonv3.5.jpg)
+![Xenon Terminal Screenshot](Xenonv.jpg)
 
 ## Supported Operating Systems
 This package (`.deb`) natively supports all Debian and Ubuntu-based Linux distributions, including:
