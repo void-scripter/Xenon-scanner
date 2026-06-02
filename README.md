@@ -5,7 +5,7 @@ Xenon scanner is a tools like hydra for brute force login page, but, because hyd
 
 ## Supported Operating Systems
 This package (`.deb`) natively supports all Debian and Ubuntu-based Linux distributions, including:
-* Kali Linux / NetHunter tapi 0
+* Kali Linux / NetHunter
 * Ubuntu
 * Debian GNU/Linux
 * Linux Mint
